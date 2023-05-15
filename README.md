@@ -19,20 +19,20 @@
 
 <p align="center">
 	<a href="https://codeforces.com/profile/congdat"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="Code Forces" height="50px" title="Codeforces"/></a>
-	&nbsp;
+	&emsp;
 	<a href="https://leetcode.com/ddawst/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="LeetCode" height="50px" title="LeetCode"/></a>
-	&nbsp; 
+	&emsp;
 	<a href="https://oj.vnoi.info/user/ddawst"><img src="https://oj.vnoi.info/static/icons/logo.svg" alt="VNOJ" height="50px" title="VNOJ"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:dat13102k2@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="50px" title="Gmail"/></a>
-	&nbsp;
+	&emsp;
 	<a href="https://github.com/Dat-TG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub" height="50px" title="GitHub"/></a>
-	&nbsp;
+	&emsp;
 	<a href="https://www.linkedin.com/in/ddawst/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50px" title="LinkedIn"/></a>
-	&nbsp;
+	&emsp;
 	<a href="https://www.facebook.com/ddawst"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="Facebook" height="50px" title="Facebook"/></a>
 </p>
 
@@ -103,10 +103,22 @@
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" height="50px" title="Flutter">
    </a>
+	&emsp;
+  <a href="https://www.w3schools.com/xml/" target="_blank"> 
+     <img alt="XML" src="https://cdn.iconscout.com/icon/free/png-256/free-xml-file-2330558-1950399.png" height="50px" title="XML">
+   </a>
 </p>
 
 ### <picture> <img src = "https://onepatch.com/wp-content/uploads/2022/03/WEB_FRONT_END_DEV.gif" width = 50px>  </picture> Backend Development
 <p align="center"> 
+	&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://logosdownload.com/logo/javascript-logo-big.png" height="50px" title="JavaScript">
+   </a>
+	&emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="50px" title="Java">
+  </a>
   &emsp; 
   <a href="https://nodejs.org/" target="_blank"> 
    <img alt="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50px" title="NodeJS">
@@ -116,51 +128,85 @@
     <img alt="ExpressJS" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" height="50px" title="ExpressJS">
   </a> 
 	&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://logosdownload.com/logo/javascript-logo-big.png" height="50px" title="JavaScript">
-   </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="50px" title="Bootstrap">
-  </a>
-  &emsp;
-  <a href="https://react.dev/" target="_blank"> 
-     <img alt="Reactjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50px" title="Reactjs">
+  <a href="https://nextjs.org/" target="_blank"> 
+     <img alt="Nextjs" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" height="50px" title="Nextjs">
    </a>
 	&emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" height="50px" title="Flutter">
+  <a href="https://firebase.google.com/" target="_blank"> 
+     <img alt="Firebase" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" height="50px" title="Firebase">
+   </a>
+  &emsp;
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    <img alt="Microsoft SQL Server" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-8.png" height="50px" title="Microsoft SQL Server">
+  </a>
+  &emsp;
+  <a href="https://www.mongodb.com/" target="_blank"> 
+     <img alt="MongoDB" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" height="50px" title="MongoDB">
+   </a>
+	&emsp;
+  <a href="https://www.postgresql.org/" target="_blank"> 
+     <img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="50px" title="PostgreSQL">
+   </a>
+	&emsp;
+  <a href="https://sqlite.org/" target="_blank"> 
+     <img alt="SQLite" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" height="50px" title="SQLite">
    </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
-<p align="center">
+<p align="center"> 
+	&emsp;
+  <a href="https://git-scm.com/" target="_blank"> 
+     <img alt="Git" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" height="50px" title="Git">
+   </a>
+  &emsp; 
+  <a href="https://github.com/Dat-TG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub" height="50px" title="GitHub"/></a>
+	&emsp;
+  <a href="https://www.figma.com/" target="_blank"> 
+     <img alt="Figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="50px" title="Figma">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img alt="Markdown" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" height="50px" title="Markdown">
+  </a> 
+	&emsp;
+  <a href="https://jupyter.org/" target="_blank"> 
+     <img alt="Jupyter Notebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height="50px" title="Jupyter Notebook">
+   </a>
+	   &emsp;
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img alt="Jira" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" height="50px" title="Jira">
+  </a>
+	  &emsp;
+  <a href="https://slack.com/" target="_blank">
+    <img alt="Slack" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" height="50px" title="Slack">
+  </a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="https://stackoverflow.com/" target="_blank">
+    <img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="50px" title="Stack Overflow">
+  </a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/microsoft-365/word" target="_blank"> 
+     <img alt="Microsoft Word" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" height="50px" title="Microsoft Word">
+   </a>
+	&emsp;
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"> 
+     <img alt="Microsoft Excel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="50px" title="Microsoft Excel">
+   </a>
+	&emsp;
+  <a href="https://docs.google.com/document/create" target="_blank"> 
+     <img alt="Google Docs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png" height="50px" title="Google Docs">
+   </a>
+	&emsp;
+  <a href="https://docs.google.com/spreadsheets/create" target="_blank"> 
+     <img alt="Google Sheets" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" height="50px" title="Google Sheets">
+   </a>
+	&emsp;
+  <a href="https://docs.google.com/forms/" target="_blank"> 
+     <img alt="Google Forms" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Forms_2020_Logo.svg/1489px-Google_Forms_2020_Logo.svg.png" height="50px" title="Google Forms">
+   </a>
 </p>
+
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
@@ -173,23 +219,6 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
