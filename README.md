@@ -3,7 +3,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dat-TG&label=Profile%20views&color=0e75b6&style=flat" alt="Dat-TG" /> </p>
 <br><br>
 
 - :school: I am a `Student` at [Faculty of Information Technology](https://www.fit.hcmus.edu.vn/) at [VNUHCM-University of Science](https://www.hcmus.edu.vn/).
@@ -18,17 +18,22 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/congdat"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/ddawst/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://oj.vnoi.info/user/ddawst"><img src="https://oj.vnoi.info/static/icons/logo.svg" alt="VNOJ" height="50px"/></a>
+	<a href="https://codeforces.com/profile/congdat"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="Code Forces" height="50px" title="Codeforces"/></a>
+	&nbsp;
+	<a href="https://leetcode.com/ddawst/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="LeetCode" height="50px" title="LeetCode"/></a>
+	&nbsp; 
+	<a href="https://oj.vnoi.info/user/ddawst"><img src="https://oj.vnoi.info/static/icons/logo.svg" alt="VNOJ" height="50px" title="VNOJ"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:dat13102k2@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Dat-TG"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ddawst/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/ddawst"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="mailto:dat13102k2@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="50px" title="Gmail"/></a>
+	&nbsp;
+	<a href="https://github.com/Dat-TG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub" height="50px" title="GitHub"/></a>
+	&nbsp;
+	<a href="https://www.linkedin.com/in/ddawst/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="50px" title="LinkedIn"/></a>
+	&nbsp;
+	<a href="https://www.facebook.com/ddawst"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="Facebook" height="50px" title="Facebook"/></a>
 </p>
 
 
@@ -40,23 +45,35 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+    <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="50px" title="C">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="https://cplusplus.com/" target="_blank"> 
+    <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="50px" title="C++">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://logosdownload.com/logo/javascript-logo-big.png" height="50px" title="JavaScript">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="50px" title="Java">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50px" title="Python">
+  </a>
+  &emsp;
+   <a href="https://dart.dev/" target="_blank">
+    <img alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="50px" title="Dart">
+  </a>
+	&emsp;
+   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="50px" title="MATLAB">
+  </a>
+	&emsp;
+   <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" height="50px" title="R">
   </a>
 </p>
 
@@ -64,19 +81,55 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   <img alt="HTML" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" height="50px" title="HTML">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="50px" title="CSS">
   </a> 
+	&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://logosdownload.com/logo/javascript-logo-big.png" height="50px" title="JavaScript">
+   </a>
   &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="50px" title="Bootstrap">
   </a>
   &emsp;
+  <a href="https://react.dev/" target="_blank"> 
+     <img alt="Reactjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50px" title="Reactjs">
+   </a>
+	&emsp;
+  <a href="https://flutter.dev/" target="_blank"> 
+     <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" height="50px" title="Flutter">
+   </a>
+</p>
+
+### <picture> <img src = "https://onepatch.com/wp-content/uploads/2022/03/WEB_FRONT_END_DEV.gif" width = 50px>  </picture> Backend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://nodejs.org/" target="_blank"> 
+   <img alt="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50px" title="NodeJS">
+  </a>   
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="ExpressJS" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" height="50px" title="ExpressJS">
+  </a> 
+	&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://logosdownload.com/logo/javascript-logo-big.png" height="50px" title="JavaScript">
+   </a>
+  &emsp;
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="50px" title="Bootstrap">
+  </a>
+  &emsp;
+  <a href="https://react.dev/" target="_blank"> 
+     <img alt="Reactjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50px" title="Reactjs">
+   </a>
+	&emsp;
+  <a href="https://flutter.dev/" target="_blank"> 
+     <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" height="50px" title="Flutter">
    </a>
 </p>
 
