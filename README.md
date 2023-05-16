@@ -193,6 +193,7 @@
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"> 
      <img alt="Microsoft Excel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="50px" title="Microsoft Excel">
    </a>
+	  <br/><br/>
 	&emsp;
   <a href="https://docs.google.com/document/create" target="_blank"> 
      <img alt="Google Docs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png" height="50px" title="Google Docs">
@@ -205,6 +206,18 @@
   <a href="https://docs.google.com/forms/" target="_blank"> 
      <img alt="Google Forms" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Forms_2020_Logo.svg/1489px-Google_Forms_2020_Logo.svg.png" height="50px" title="Google Forms">
    </a>
+	  &emsp;
+  <a href="https://app.diagrams.net/" target="_blank"> 
+     <img alt="Diagrams.net" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png" height="50px" title="Diagrams.net">
+   </a>
+	  &emsp;
+  <a href="https://staruml.io/" target="_blank"> 
+     <img alt="StarUML" src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" height="50px" title="StarUML">
+   </a>
+	   &emsp;
+  <a href="https://www.animaker.com/" target="_blank"> 
+     <img alt="Animaker" src="https://www.animaker.com/static/assets/images/press/Animaker-logo1.png" height="50px" title="Animaker">
+   </a>
 </p>
 
 
@@ -212,28 +225,38 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+  <a href=https://visualstudio.microsoft.com/" target="_blank"> 
+     <img alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1030px-Visual_Studio_Icon_2019.svg.png" height="50px" title="Visual Studio">
+   </a>
+	  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+     <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="50px" title="Visual Studio Code">
+   </a>
+	   &emsp;
+  <a href="https://www.jetbrains.com/pycharm/download/" target="_blank"> 
+     <img alt="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" height="50px" title="Pycharm">
+   </a>
+   &emsp;
+  <a href="https://developer.android.com/studio" target="_blank"> 
+     <img alt="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" height="50px" title="Android Studio">
+   </a>
+   &emsp;
+  <a href="https://www.sublimetext.com/" target="_blank"> 
+     <img alt="Sublime Text" src="https://www.sublimehq.com/images/sublime_text.png" height="50px" title="Sublime Text">
+   </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+		 &emsp;
+  <a href="https://www.microsoft.com/download/windows.aspx" target="_blank"> 
+     <img alt="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" height="50px" title="Windows">
+   </a>
+    &emsp;
+  <a href="https://ubuntu.com/download" target="_blank"> 
+     <img alt="Ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" height="50px" title="Ubuntu">
+   </a>
 </p>
 
 <br> 
