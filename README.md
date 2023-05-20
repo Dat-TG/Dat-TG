@@ -107,6 +107,15 @@
   <a href="https://www.w3schools.com/xml/" target="_blank"> 
      <img alt="XML" src="https://cdn.iconscout.com/icon/free/png-256/free-xml-file-2330558-1950399.png" height="50px" title="XML">
    </a>
+	&emsp;
+	<a href="https://tailwindcss.com/" target="_blank"> 
+     <img alt="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" height="50px" title="Tailwind CSS">
+   </a>
+	&emsp;
+	<a href="https://vuejs.org/" target="_blank"> 
+     <img alt="Vue.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="50px" title="Vue.js">
+   </a>
+	&emsp;
 </p>
 
 ### <picture> <img src = "https://onepatch.com/wp-content/uploads/2022/03/WEB_FRONT_END_DEV.gif" width = 50px>  </picture> Backend Development
