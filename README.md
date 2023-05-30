@@ -386,7 +386,7 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Contributions Graph
 	
 <p align = "center">
   <img src = "https://github.com/Dat-TG/Dat-TG/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
