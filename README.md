@@ -14,17 +14,6 @@
 - :thinking: I’m currently open for a new `job opportunity` about `Flutter`, `NodeJS`, or `NextJS`, this is [MY RESUME](https://www.topcv.vn/xem-cv/VVtVAAFXVgdUDlwFVQYHBVIBAQFVV1JTVwBSXA1ad8).
 <br>
 
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
-<p align="center">
-	<a href="https://codeforces.com/profile/congdat"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="Code Forces" height="50px" title="Codeforces"/></a>
-	&emsp;
-	<a href="https://leetcode.com/ddawst/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="LeetCode" height="50px" title="LeetCode"/></a>
-	&emsp;
-	<a href="https://oj.vnoi.info/user/ddawst"><img src="https://oj.vnoi.info/static/icons/logo.svg" alt="VNOJ" height="50px" title="VNOJ"/></a>
-</p>
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:dat13102k2@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="50px" title="Gmail"/></a>
@@ -37,6 +26,15 @@
 </p>
 
 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+
+<p align="center">
+	<a href="https://codeforces.com/profile/congdat"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="Code Forces" height="50px" title="Codeforces"/></a>
+	&emsp;
+	<a href="https://leetcode.com/ddawst/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="LeetCode" height="50px" title="LeetCode"/></a>
+	&emsp;
+	<a href="https://oj.vnoi.info/user/ddawst"><img src="https://oj.vnoi.info/static/icons/logo.svg" alt="VNOJ" height="50px" title="VNOJ"/></a>
+</p>
 
 ## 🛠️ My Skills
 
@@ -44,6 +42,20 @@
 
 <p align="center"> 
   &emsp; 
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://logosdownload.com/logo/javascript-logo-big.png" height="50px" title="JavaScript">
+   </a>
+  &emsp;
+   <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="50px" title="TypeScript">
+  </a>
+   &emsp;
+   <a href="https://dart.dev/" target="_blank">
+    <img alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="50px" title="Dart">
+  </a>
+	&emsp;
+  
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height="50px" title="C">
   </a> 
@@ -51,10 +63,6 @@
   <a href="https://cplusplus.com/" target="_blank"> 
     <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="50px" title="C++">
   </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://logosdownload.com/logo/javascript-logo-big.png" height="50px" title="JavaScript">
-   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="50px" title="Java">
@@ -64,17 +72,8 @@
     <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50px" title="Python">
   </a>
   &emsp;
-   <a href="https://dart.dev/" target="_blank">
-    <img alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" height="50px" title="Dart">
-  </a>
-	&emsp;
-   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img alt="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="50px" title="MATLAB">
-  </a>
-	&emsp;
-   <a href="https://www.r-project.org/" target="_blank">
-    <img alt="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" height="50px" title="R">
-  </a>
+   
+
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
@@ -112,8 +111,8 @@
      <img alt="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" height="50px" title="Tailwind CSS">
    </a>
 	&emsp;
-	<a href="https://vuejs.org/" target="_blank"> 
-     <img alt="Vue.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="50px" title="Vue.js">
+	<a href="https://mui.com/"> 
+     <img alt="MUI" src="https://mui.com/static/logo.png" height="50px" title="MUI">
    </a>
 	&emsp;
 </p>
@@ -125,10 +124,6 @@
      <img alt="JavaScript" src="https://logosdownload.com/logo/javascript-logo-big.png" height="50px" title="JavaScript">
    </a>
 	&emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" height="50px" title="Java">
-  </a>
-  &emsp; 
   <a href="https://nodejs.org/" target="_blank"> 
    <img alt="NodeJS" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="50px" title="NodeJS">
   </a>   
@@ -253,22 +248,17 @@
   <a href="https://www.sublimetext.com/" target="_blank"> 
      <img alt="Sublime Text" src="https://www.sublimehq.com/images/sublime_text.png" height="50px" title="Sublime Text">
    </a>
+&emsp;
+<a href="https://www.jetbrains.com/webstorm/" target="_blank"> 
+     <img alt="WebStorm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height="50px" title="WebStorm">
+   </a>
+&emsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank"> 
+     <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height="50px" title="IntelliJ IDEA">
+   </a>
+&emsp;
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-		 &emsp;
-  <a href="https://www.microsoft.com/download/windows.aspx" target="_blank"> 
-     <img alt="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" height="50px" title="Windows">
-   </a>
-    &emsp;
-  <a href="https://ubuntu.com/download" target="_blank"> 
-     <img alt="Ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" height="50px" title="Ubuntu">
-   </a>
-</p>
-
-<br> 
 
 ---
 
@@ -297,15 +287,6 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Dat-TG's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dat-TG&theme=github	)](https://github.com/Dat-TG/github-readme-activity-graph)
-
- 
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
@@ -385,9 +366,3 @@
 </details>
 
 </br></br>
-	
-## 🐍 My Contributions Graph
-	
-<p align = "center">
-  <img src = "https://github.com/Dat-TG/Dat-TG/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
