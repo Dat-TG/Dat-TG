@@ -11,7 +11,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `VNOJ`
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity` about `Flutter`, `NodeJS`, or `NextJS`, this is [MY RESUME](https://www.topcv.vn/xem-cv/VVtVAAFXVgdUDlwFVQYHBVIBAQFVV1JTVwBSXA1ad8).
+- :thinking: I’m currently open for a new `job opportunity` about `Flutter`, `NodeJS`, or `NextJS`, this is [MY RESUME](https://docs.google.com/document/d/1jzRg6rUKAR3ujeJDJO4RPOwAP0XZFSw3_BeaXbwR2As/edit?usp=sharing).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
