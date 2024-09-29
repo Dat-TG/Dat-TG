@@ -157,6 +157,22 @@
    </a>
 </p>
 
+### <picture> <img src = "https://cdn.prod.website-files.com/59e16042ec229e00016d3a66/6317db6be014a127a8479a84_blog-hero%20(21).gif" width = 50px>  </picture> Data Visualization
+
+<p align="center"> 
+	&emsp;
+ <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50px" title="Python">
+  </a>
+  &emsp; 
+  <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/640px-Tableau_Logo.png" alt="Tableau" height="50px" title="Tableau"/></a>
+	&emsp;
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Power BI" height="50px" title="Power BI"/></a>
+	&emsp;
+	<a href="https://dash.plotly.com/"><img src="https://saturn-public-assets.s3.us-east-2.amazonaws.com/example-resources/plotly_dash_logo.png" alt="Plotly Dash" height="50px" title="Plotly Dash"/></a>
+	&emsp;
+</p>
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center"> 
